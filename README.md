@@ -1,2 +1,2 @@
 # tahir-kali.github.io
-<h1> Hello this is Tahir a fullstack developer based in Tajikistan </h1>
+<b> Hello this is Tahir a fullstack developer based in Tajikistan </b>
